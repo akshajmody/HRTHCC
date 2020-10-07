@@ -1,4 +1,4 @@
-# Frontend Engineering THCC Setup -
+# Frontend Engineering THCC Setup
 
 We want your THCC to go smoothly! Instead of starting from scratch, following are some bullet points to help you get a blank canvas ready. When the clock starts on your project, you should be able to just start coding!
 
