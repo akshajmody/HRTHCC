@@ -1,4 +1,4 @@
-# Frontend Engineering THCC Setup
+# Frontend Engineering THCC Setup -
 
 We want your THCC to go smoothly! Instead of starting from scratch, following are some bullet points to help you get a blank canvas ready. When the clock starts on your project, you should be able to just start coding!
 
@@ -31,14 +31,14 @@ Other libraries/frameworks will likely have a similar command that takes a direc
 If you want to verify it's building correctly (especially if you're using something other than `create-react-app`), you can do this:
 
 ```bash
-cd project 
+cd project
 npx serve -s build
 ```
 
 Or with `yarn`:
 
 ```bash
-cd project 
+cd project
 yarn add serve
 yarn serve -s build
 ```
